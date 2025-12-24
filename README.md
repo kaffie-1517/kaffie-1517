@@ -1,18 +1,21 @@
 
 
-<h1 align="center">Hi 👋, I'm Jasmeet Singh</h1>
+# 👋 Hi, I'm Jasmeet Singh
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I'm a **Site Reliability Engineer** focused on building, operating, and scaling highly available, fault-tolerant infrastructure that supports mission-critical services.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jassiii-17&label=Profile%20views&color=0e75b6&style=flat" alt="jassiii-17" /> </p>
+I work at the intersection of **infrastructure, networking, automation, and reliability engineering**, ensuring systems remain stable, observable, and resilient under real production load.
 
-<p align="left"> <a href="https://x.com/kaffie1517" target="blank"><img src="https://img.shields.io/twitter/follow/jasmeetsingh_1517?logo=twitter&style=for-the-badge" alt="jasmeetsingh_17" /></a> </p>
+---
 
-- 🌱 🛠️ Currently working with **Ansible**, **Terraform**, **Prometheus**, and **Grafana**
+## 🏢 What I Do
 
-- 📝 I write blogs on [https://jasmeetsingh1517.hashnode.dev/](https://jasmeetsingh1517.hashnode.dev/)
-
-- 📫 How to reach me **jasmeetsingh171002@gmail.com**
+- 🛡 Operate and maintain **high-availability infrastructure** supporting thousands of end users
+- 🖥 Manage and monitor **100+ production servers & network devices**
+- 🌐 Support **large-scale IP/MPLS networks** for enterprise & defense environments
+- ⚙️ Lead troubleshooting, incident response, root cause analysis, and service restoration
+- 🔄 Drive automation to reduce toil and improve system reliability
+- 📊 Implement proactive monitoring, alerting & performance optimization
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
