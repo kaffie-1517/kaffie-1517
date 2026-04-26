@@ -16,9 +16,3 @@ I work at the intersection of **infrastructure, networking, automation, and reli
 - 🐳 Manage **Docker workloads** - container lifecycle, image updates & **container log debugging**
 - 📊 Build & operate **observability systems** with Prometheus & Grafana for proactive incident detection
 - ⚙️ Lead incident response, RCA, automation & service restoration for mission-critical systems
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jasmeetsingh1517/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasmeetsingh17" height="30" width="40" /></a>
-</p>
-
